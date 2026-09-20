@@ -52,7 +52,7 @@ My goal is to build reliable, secure, and automated cloud infrastructure while c
 
 ## 🚀 Featured Projects
 
-### 🏗️ Terraform AWS Infrastructure
+### Terraform AWS Infrastructure
 
 Infrastructure-as-Code project using **Terraform to provision and manage AWS infrastructure**.
 
@@ -64,7 +64,7 @@ The project provisions a custom VPC, public subnet, Internet Gateway, route tabl
 
 ---
 
-### 🐳 ProductHub — AWS Deployment
+### ProductHub — AWS Deployment
 
 Dockerized **ASP.NET Core MVC** application deployed to AWS using **Amazon ECR and EC2**.
 
