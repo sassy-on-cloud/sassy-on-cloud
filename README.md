@@ -2,55 +2,37 @@
 
 ### Aspiring Cloud & DevOps Engineer
 
-I'm a BSc CSIT student building hands-on experience in **Cloud Computing, DevOps, AWS, Linux, Docker, and Infrastructure as Code**.
+I'm a **BSc CSIT student** building hands-on experience in **AWS, Linux, Docker, Terraform, cloud infrastructure, and DevOps practices**.
 
-I learn by building and documenting real projects — from Linux server administration and containerized applications to AWS infrastructure provisioned with Terraform.
+I learn by building and documenting practical projects — from Linux server administration and containerized applications to provisioning AWS infrastructure with Terraform.
 
----
-
-## ☁️ Cloud & DevOps Journey
-
-```text
-Linux & Git
-    ↓
-AWS Fundamentals
-    ↓
-Docker & Docker Compose
-    ↓
-AWS EC2 + ECR
-    ↓
-Terraform & Infrastructure as Code
-    ↓
-CI/CD with GitHub Actions
-    ↓
-Monitoring with Prometheus & Grafana
-    ↓
-Kubernetes
-```
+My goal is to build reliable, secure, and automated cloud infrastructure while continuously developing my skills in **Cloud & DevOps**.
 
 ---
 
-## 🛠️ Technologies & Tools
+## ☁️ Cloud & DevOps
 
-**Cloud**
+**Cloud & Infrastructure**
 
 * AWS
-* EC2
-* ECR
-* S3
+* Amazon EC2
+* Amazon ECR
+* Amazon VPC
 * IAM
-* VPC
+* S3
+* Security Groups
+* Internet Gateway
+* Route Tables
 
-**DevOps**
+**DevOps & Infrastructure as Code**
 
 * Docker
 * Docker Compose
-* GitHub Actions
 * Terraform
 * Nginx
-* Prometheus
-* Grafana
-* Kubernetes
+* Git
+* GitHub
+* Bash
 
 **Development**
 
@@ -58,15 +40,13 @@ Kubernetes
 * ASP.NET Core
 * Entity Framework Core
 * SQL Server
+* .NET
 
-**Operating Systems & Tools**
+**Operating Systems**
 
 * Linux
 * Ubuntu
 * WSL
-* Git
-* GitHub
-* Bash
 
 ---
 
@@ -74,29 +54,35 @@ Kubernetes
 
 ### 🏗️ Terraform AWS Infrastructure
 
-Infrastructure-as-Code project using Terraform to provision AWS networking resources.
+Infrastructure-as-Code project using **Terraform to provision and manage AWS infrastructure**.
 
-**Technologies:** Terraform • AWS VPC • Subnets • Internet Gateway • Route Tables • Security Groups • IAM
+The project provisions a custom VPC, public subnet, Internet Gateway, route table, security group, and Ubuntu EC2 instance, followed by infrastructure verification and controlled destruction.
+
+**Technologies:** Terraform • AWS VPC • EC2 • IAM • Security Groups • Linux
 
 🔗 [View Project](https://github.com/sassy-on-cloud/terraform-aws-infrastructure)
 
 ---
 
-### 🐳 ProductHub — Dockerized Web Application
+### 🐳 ProductHub — AWS Deployment
 
-Containerized ASP.NET Core MVC application using Docker Compose with SQL Server, followed by AWS deployment infrastructure using EC2 and ECR.
+Dockerized **ASP.NET Core MVC** application deployed to AWS using **Amazon ECR and EC2**.
 
-**Technologies:** ASP.NET Core • .NET 10 • Docker • Docker Compose • SQL Server • AWS EC2 • AWS ECR
+The project combines application development with containerization, Docker Compose, SQL Server, AWS infrastructure, and Nginx.
 
-🔗 [View Project](https://github.com/sassy-on-cloud/producthub-dockerized-web-app)
+**Technologies:** ASP.NET Core • .NET • Docker • Docker Compose • SQL Server • AWS ECR • EC2 • Nginx
+
+🔗 [View Project](https://github.com/sassy-on-cloud/producthub-aws-deployment)
 
 ---
 
 ### 🐧 Linux Server Administration
 
-Hands-on Linux administration project covering users, groups, permissions, SSH, Nginx, shared directories and Git.
+Hands-on Linux administration project covering **users, groups, permissions, SSH, Nginx, shared directories, Git, and basic server management**.
 
-**Technologies:** Ubuntu • Linux • Bash • SSH • Nginx • Git
+This project established the Linux foundation used in my later cloud and deployment projects.
+
+**Technologies:** Linux • Ubuntu • Bash • SSH • Nginx • Git
 
 🔗 [View Project](https://github.com/sassy-on-cloud/linux-server-administration)
 
@@ -104,9 +90,9 @@ Hands-on Linux administration project covering users, groups, permissions, SSH, 
 
 ### ☁️ AWS Cloud Quest — Cloud Practitioner
 
-Hands-on learning journey covering foundational AWS cloud concepts, networking, compute, storage and databases.
+Hands-on AWS learning portfolio covering **compute, networking, databases, storage, security, scaling, and high availability**.
 
-🏆 AWS Cloud Quest: Cloud Practitioner Training Badge
+🏆 **AWS Cloud Quest: Cloud Practitioner**
 
 🔗 [View Project](https://github.com/sassy-on-cloud/aws-cloud-quest-cloud-practitioner)
 
@@ -114,12 +100,14 @@ Hands-on learning journey covering foundational AWS cloud concepts, networking, 
 
 ## 📚 Currently Learning
 
+I'm currently expanding my Cloud & DevOps skills in:
+
 * GitHub Actions & CI/CD
-* Terraform
+* AWS infrastructure automation
 * Prometheus & Grafana
 * Kubernetes
 * Cloud Security
-* AWS architecture and infrastructure automation
+* Advanced Terraform practices
 
 ---
 
@@ -133,21 +121,18 @@ Nepal
 
 ## 🏆 Certifications & Learning
 
-* AWS Cloud Quest — Cloud Practitioner
+* **AWS Cloud Quest — Cloud Practitioner**
 * AWS Skill Builder hands-on learning
+
+🔗 [View my AWS Cloud Quest portfolio](https://github.com/sassy-on-cloud/aws-cloud-quest-cloud-practitioner)
 
 ---
 
 ## 📫 Connect With Me
 
-**LinkedIn:**
-https://www.linkedin.com/in/shashwataryal
-
-**GitHub:**
-https://github.com/sassy-on-cloud
-
-**Email:**
-[shashwataryal2026@gmail.com](mailto:shashwataryal2026@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/shashwataryal)
+* 💻 [GitHub](https://github.com/sassy-on-cloud)
+* 📧 [shashwataryal2026@gmail.com](mailto:shashwataryal2026@gmail.com)
 
 ---
 
