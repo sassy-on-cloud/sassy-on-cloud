@@ -1,139 +1,119 @@
 # Hi, I'm Shashwat Aryal 👋
 
-### Aspiring Cloud & DevOps Engineer
+### Cloud & DevOps | AWS • Linux • Docker • Terraform
 
-I'm a **BSc CSIT student** building hands-on experience in **AWS, Linux, Docker, Terraform, cloud infrastructure, and DevOps practices**.
+I'm a BSc CSIT student building practical Cloud & DevOps skills through hands-on projects focused on cloud infrastructure, application deployment, Linux administration, and infrastructure as code.
 
-I learn by building and documenting practical projects — from Linux server administration and containerized applications to provisioning AWS infrastructure with Terraform.
+I learn by building, testing, documenting, and improving real projects. My work includes deploying a containerized ASP.NET Core application on AWS, provisioning AWS infrastructure with Terraform, and configuring Linux servers and Nginx.
 
-My goal is to build reliable, secure, and automated cloud infrastructure while continuously developing my skills in **Cloud & DevOps**.
+**My focus:** reliable deployments, infrastructure automation, security-conscious configuration, and clear technical documentation.
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Technical Skills
 
 **Cloud & Infrastructure**
+- AWS EC2, ECR, VPC, IAM, S3
+- Security Groups, Internet Gateways, Route Tables
+- Basic AWS networking and infrastructure configuration
 
-* AWS
-* Amazon EC2
-* Amazon ECR
-* Amazon VPC
-* IAM
-* S3
-* Security Groups
-* Internet Gateway
-* Route Tables
+**Containers & Infrastructure as Code**
+- Docker and Docker Compose
+- Terraform
+- Nginx and reverse proxy configuration
 
-**DevOps & Infrastructure as Code**
+**Linux & Development Tools**
+- Linux, Ubuntu, SSH, Bash
+- Git and GitHub
+- Windows Subsystem for Linux (WSL)
 
-* Docker
-* Docker Compose
-* Terraform
-* Nginx
-* Git
-* GitHub
-* Bash
-
-**Development**
-
-* C#
-* ASP.NET Core
-* Entity Framework Core
-* SQL Server
-* .NET
-
-**Operating Systems**
-
-* Linux
-* Ubuntu
-* WSL
+**Application Development**
+- C#, ASP.NET Core MVC, .NET
+- Entity Framework Core
+- SQL Server
 
 ---
 
 ## 🚀 Featured Projects
 
-### Terraform AWS Infrastructure
+### 1. ProductHub — Dockerized Application on AWS
 
-Infrastructure-as-Code project using **Terraform to provision and manage AWS infrastructure**.
+Deployed an ASP.NET Core MVC application using Docker, Docker Compose, Amazon ECR, and Amazon EC2, with SQL Server for data persistence and Nginx for reverse proxy configuration.
 
-The project provisions a custom VPC, public subnet, Internet Gateway, route table, security group, and Ubuntu EC2 instance, followed by infrastructure verification and controlled destruction.
+**Key areas:** containerization, cloud deployment, environment configuration, database persistence, and Linux server administration.
 
-**Technologies:** Terraform • AWS VPC • EC2 • IAM • Security Groups • Linux
+**Technologies:** ASP.NET Core • Docker • Docker Compose • AWS EC2 • Amazon ECR • SQL Server • Nginx
 
-🔗 [View Project](https://github.com/sassy-on-cloud/terraform-aws-infrastructure)
+🔗 [View repository](https://github.com/sassy-on-cloud/producthub-aws-deployment)
 
----
+### 2. Terraform — AWS Infrastructure Provisioning
 
-### ProductHub — AWS Deployment
+Built an Infrastructure-as-Code project using Terraform to provision and manage AWS networking and compute resources.
 
-Dockerized **ASP.NET Core MVC** application deployed to AWS using **Amazon ECR and EC2**.
+The project covers a custom VPC, public subnet, Internet Gateway, route table, security group, and Ubuntu EC2 instance, with infrastructure validation and lifecycle management.
 
-The project combines application development with containerization, Docker Compose, SQL Server, AWS infrastructure, and Nginx.
+**Key areas:** infrastructure as code, AWS networking, security group configuration, Terraform planning, and resource cleanup.
 
-**Technologies:** ASP.NET Core • .NET • Docker • Docker Compose • SQL Server • AWS ECR • EC2 • Nginx
+**Technologies:** Terraform • AWS VPC • EC2 • Security Groups • Linux
 
-🔗 [View Project](https://github.com/sassy-on-cloud/producthub-aws-deployment)
+🔗 [View repository](https://github.com/sassy-on-cloud/terraform-aws-infrastructure)
 
----
+### 3. Linux Server Administration
 
-### 🐧 Linux Server Administration
+A hands-on project covering core Linux administration tasks, including users and groups, file permissions, SSH, networking, shared directories, service management, and Nginx.
 
-Hands-on Linux administration project covering **users, groups, permissions, SSH, Nginx, shared directories, Git, and basic server management**.
-
-This project established the Linux foundation used in my later cloud and deployment projects.
+The project established the Linux foundation used in my later cloud infrastructure and deployment work.
 
 **Technologies:** Linux • Ubuntu • Bash • SSH • Nginx • Git
 
-🔗 [View Project](https://github.com/sassy-on-cloud/linux-server-administration)
+🔗 [View repository](https://github.com/sassy-on-cloud/linux-server-administration)
 
----
+### 4. Cloud-Native DevOps Platform — In Progress
 
-### ☁️ AWS Cloud Quest — Cloud Practitioner
+An evolving project focused on bringing together application deployment, automated testing, infrastructure as code, security practices, and observability.
 
-Hands-on AWS learning portfolio covering **compute, networking, databases, storage, security, scaling, and high availability**.
+The current work includes an ASP.NET Core application, Docker, automated tests, and security headers. Planned extensions include CI/CD automation, Terraform-managed infrastructure, Kubernetes, and Prometheus/Grafana monitoring.
 
-🏆 **AWS Cloud Quest: Cloud Practitioner**
+**Technologies:** ASP.NET Core • Docker • AWS • Terraform • CI/CD • Kubernetes • Observability
 
-🔗 [View Project](https://github.com/sassy-on-cloud/aws-cloud-quest-cloud-practitioner)
+🔗 [View repository](https://github.com/sassy-on-cloud/cloud-native-devops-platform)
 
 ---
 
 ## 📚 Currently Learning
 
-I'm currently expanding my Cloud & DevOps skills in:
-
-* GitHub Actions & CI/CD
-* AWS infrastructure automation
-* Prometheus & Grafana
-* Kubernetes
-* Cloud Security
-* Advanced Terraform practices
+- GitHub Actions and CI/CD automation
+- Advanced Terraform practices
+- Kubernetes and container orchestration
+- Prometheus and Grafana
+- Cloud security and infrastructure hardening
 
 ---
 
 ## 🎓 Education
 
-**BSc CSIT — 6th Semester**
-
+**BSc CSIT — 6th Semester**  
 Nepal
 
----
+## 🏆 Cloud Learning
 
-## 🏆 Certifications & Learning
-
-* **AWS Cloud Quest — Cloud Practitioner**
-* AWS Skill Builder hands-on learning
+**AWS Cloud Quest: Cloud Practitioner** — hands-on AWS learning badge.
 
 🔗 [View my AWS Cloud Quest portfolio](https://github.com/sassy-on-cloud/aws-cloud-quest-cloud-practitioner)
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Open to Opportunities
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/shashwataryal)
-* 💻 [GitHub](https://github.com/sassy-on-cloud)
-* 📧 [shashwataryal2026@gmail.com](mailto:shashwataryal2026@gmail.com)
+I'm interested in junior Cloud/DevOps opportunities and well-scoped freelance tasks involving Docker, Linux administration, basic AWS deployments, Nginx configuration, and Terraform.
+
+I value clear communication, careful testing, and documentation that makes systems easier to maintain.
+
+📫 **Connect with me**
+- [LinkedIn](https://www.linkedin.com/in/shashwataryal)
+- [GitHub](https://github.com/sassy-on-cloud)
+- [Email](mailto:shashwataryal2026@gmail.com)
 
 ---
 
-> Building practical Cloud & DevOps skills one project at a time.
+*Building practical Cloud & DevOps skills one project at a time.*
