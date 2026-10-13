@@ -117,7 +117,7 @@ Nepal
 
 **AWS Cloud Quest: Cloud Practitioner** — hands-on AWS learning badge.
 
-🔗 [View my AWS Cloud Quest portfolio](https://github.com/sassy-on-cloud/aws-cloud-quest-cloud-practitioner)
+Credential: https://www.credly.com/earner/earned/share/b4138ca9-01ee-4c37-b89a-9f9b224cc20b
 
 ## 🤝 Open to Opportunities
 
@@ -127,7 +127,7 @@ I value careful testing, practical problem-solving, security-conscious decisions
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/shashwataryal/)
 - GitHub: [Explore my projects](https://github.com/sassy-on-cloud)
 - Email: [shashwataryal2026@gmail.com](mailto:shashwataryal2026@gmail.com)   
 
