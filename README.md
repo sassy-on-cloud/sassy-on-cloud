@@ -129,6 +129,6 @@ I value careful testing, practical problem-solving, security-conscious decisions
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/)
 - GitHub: [Explore my projects](https://github.com/sassy-on-cloud)
-- Email: Available on my resume
+- Email: [shashwataryal2026@gmail.com](mailto:shashwataryal2026@gmail.com)   
 
 *Building practical Cloud & DevOps skills one project at a time.*
